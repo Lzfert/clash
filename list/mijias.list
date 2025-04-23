@@ -1,10 +1,10 @@
 DOMAIN-SUFFIX,mijia.com
 DOMAIN-SUFFIX,api.mijia.tech
 DOMAIN-SUFFIX,core.api.mijia.tech
-DOMAIN-SUFFIX,ali-rwk.pull.etoote.com:80
-DOMAIN-SUFFIX,g-api.kwai.com:80
-DOMAIN-SUFFIX,cap-rta-toc.wldmarket.com:80
-DOMAIN-SUFFIX,gromore.pangolin-sdk-toutiao.com:80
-DOMAIN-SUFFIX,ws-rwk.pull.etoote.com:80
-DOMAIN-SUFFIX,httpdns.bcelive.com:80
-DOMAIN-SUFFIX,tx-rwk.pull.etoote.com:80
+DOMAIN-SUFFIX,ali-rwk.pull.etoote.com
+DOMAIN-SUFFIX,g-api.kwai.com
+DOMAIN-SUFFIX,cap-rta-toc.wldmarket.com
+DOMAIN-SUFFIX,gromore.pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,ws-rwk.pull.etoote.com
+DOMAIN-SUFFIX,httpdns.bcelive.com
+DOMAIN-SUFFIX,tx-rwk.pull.etoote.com
