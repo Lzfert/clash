@@ -153,7 +153,8 @@ DOMAIN-SUFFIX,0.cn.pool.ntp.org
 DOMAIN-SUFFIX,cn-api.anythinktech.com
 DOMAIN-SUFFIX,adx-os.anythinktech.com
 DOMAIN-SUFFIX,stream.snssdk.com
-
+DOMAIN-SUFFIX,assets.zmdmap.com
+DOMAIN-SUFFIX,zmdmap.com
 
 
 
